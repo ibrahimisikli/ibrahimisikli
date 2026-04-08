@@ -1,11 +1,13 @@
+
 <p align="center">
   <a href="https://ibrahimisikli.com" target="_blank">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Ibrahim+Isikli;Embedded+Systems+Engineer;Bare-metal+%7C+RTOS+%7C+Low+Power;Building+efficient+systems+⚡&width=650&height=50" 
+      src="https://readme-typing-svg.herokuapp.com?color=7aa2f7&center=true&vCenter=true&lines=Ibrahim+Isikli;Embedded+Systems+Engineer;STM32+%7C+ESP32+%7C+Low+Power;Building+efficient+systems+⚡&width=650&height=50" 
       alt="Typing SVG"
     />
   </a>
 </p>
+
 
 
 <div align="center">
