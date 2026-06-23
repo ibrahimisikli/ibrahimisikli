@@ -7,7 +7,7 @@
     />
 </div>
     <div align="center">
-  <a href="https://github.com/embeddedTR" target="_blank">
+  <a href="https://embeddedtr.com" target="_blank">
     <img src="./assets/my-lab.gif" width="600" alt="My Lab" />
   </a>
 </div>
