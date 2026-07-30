@@ -18,19 +18,11 @@
 
 </div>
 
-<div align="center">
-
-  ![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-isikli&theme=tokyonight&hide_border=false&disable_animations=false)
-
+<div align="center"> 
+  # 🌙 東京夜 
+  > *"The only thing all humans are equal in is death."* 
+  `— Osamu Dazai` 
 </div>
-
-<div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isikli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
