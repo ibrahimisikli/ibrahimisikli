@@ -12,11 +12,6 @@
   </a>
 </div>
 
-<div align="center">
-
- [![](https://github-readme-stats-cyyin.vercel.app/api?username=ibrahim-isikli&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-</div>
 
 # 🌙 東京夜
 > *"The only thing all humans are equal in is death."*
