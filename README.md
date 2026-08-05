@@ -24,5 +24,9 @@
   `— Osamu Dazai` 
 </div>
 
+<p align="center">
+  <img src="https://pixelsafari.neocities.org/dividers/more/cat8.gif" width="650">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
