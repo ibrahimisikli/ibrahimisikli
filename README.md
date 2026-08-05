@@ -18,15 +18,12 @@
 
 </div>
 
-<div align="center"> 
-  # 🌙 東京夜 
-  > *"The only thing all humans are equal in is death."* 
-  `— Osamu Dazai` 
-</div>
+# 🌙 東京夜
+> *"The only thing all humans are equal in is death."*
+`— Osamu Dazai, from Bungou Stray Dogs`
 
 <p align="center">
   <img src="https://pixelsafari.neocities.org/dividers/more/cat8.gif" width="650">
 </p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
