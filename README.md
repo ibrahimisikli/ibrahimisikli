@@ -22,4 +22,6 @@
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<script>document.write("test")</script>
+<p align="center">
+  <img src="https://spotify-lyrics-badge-tau.vercel.app/api/spotify-lyrics?theme=tokyo-night" alt="Spotify Now Playing" width="480" />
+</p>
