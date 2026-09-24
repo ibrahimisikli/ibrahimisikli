@@ -13,15 +13,15 @@
 </div>
 
 
-<!-- # 🌙 東京夜
-> *"The only thing all humans are equal in is death."*
-`— Osamu Dazai, from Bungou Stray Dogs` -->
+
+> Where bro learned to cook
+
 
 <p align="center">
   <img width="1195" height="896" alt="Gemini_Generated_Image_16i9p416i9p416i9" src="https://github.com/user-attachments/assets/2fda3052-327d-4a4d-a98b-cbce6b19514b" />
-
 <!--   <img src="https://pixelsafari.neocities.org/dividers/more/cat8.gif" width="650">-->
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
