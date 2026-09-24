@@ -1,4 +1,4 @@
-
+<!-- 
 <div align="center"> 
   <a href="https://ibrahimisikli.com" target="_blank">
     <img 
@@ -11,7 +11,7 @@
     <img src="./assets/my-lab.gif" width="600" alt="My Lab" />
   </a>
 </div>
-
+-->
 
 
 > Where bro learned to cook
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 
 <p align="center">
   <img src="https://spotify-lyrics-badge-tau.vercel.app/api/spotify-lyrics?theme=tokyo-night" alt="Spotify Now Playing" width="480" />
 </p>
